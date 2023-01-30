@@ -43,3 +43,6 @@ doc
 .tool-versions
 .idea/
 app/assets/builds/
+
+# Ignore INFO.md
+INFO.md
